@@ -1,0 +1,14 @@
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/bin/Debug/netcoreapp2.1/myMicroservice.deps.json
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/bin/Debug/netcoreapp2.1/myMicroservice.runtimeconfig.json
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/bin/Debug/netcoreapp2.1/myMicroservice.runtimeconfig.dev.json
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/bin/Debug/netcoreapp2.1/myMicroservice.dll
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/bin/Debug/netcoreapp2.1/myMicroservice.pdb
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.csprojAssemblyReference.cache
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.csproj.CoreCompileInputs.cache
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.RazorAssemblyInfo.cache
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.RazorAssemblyInfo.cs
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.AssemblyInfoInputs.cache
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.AssemblyInfo.cs
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.RazorTargetAssemblyInfo.cache
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.dll
+/home/ec2-user/DotNetApp/dotnet-web-app/myMicroservice/obj/Debug/netcoreapp2.1/myMicroservice.pdb
